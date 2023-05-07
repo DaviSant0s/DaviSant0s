@@ -16,7 +16,7 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
-Buscando desafios e oportunidades para crescer profissionalmente na área de desenvolvimento web, estou em constante evolução para contribuir com soluções inovadoras e eficientes. 
+Buscando desafios e oportunidades para crescer profissionalmente na área da programação, estou em constante evolução para contribuir com soluções inovadoras e eficientes. 
 
 ### E-mail
 daviir17@gmail.com
