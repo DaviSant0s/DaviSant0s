@@ -24,11 +24,8 @@
 
 ##
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviSant0s/DaviSant0s/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaviSant0s/DaviSant0s/output/github-contribution-grid-snake-light.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DaviSant0s/DaviSant0s/output/github-contribution-grid-snake.svg">
-</picture>
-
 
 </div>
+
+<!-- Parte inferior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4039a8&height=120&section=footer"/>
