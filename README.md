@@ -5,7 +5,8 @@
   
 ## Antonio Davi Araújo dos Santos
 💻 Desenvolvedor Full Stack <br>
-🎓 Estudante de Engenharia de Computação na FURG<br>
+🎓 Graduando em Engenharia de Computação (Bacharelado)<br>
+ pela Universidade Federal do Rio Grande<br>
 🚀 Aluno do programa ONE | Oracle Next Education + Alura<br>
 
 </div>
