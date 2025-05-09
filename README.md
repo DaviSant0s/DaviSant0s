@@ -10,11 +10,12 @@
 
 
  
----
+##
 
-💬 Buscando desafios e oportunidades para crescer profissionalmente na área da programação.  
+💬 Em busca de oportunidade como Estagiário ou Desenvolvedor Júnior, com foco em projetos de frontend e backend, onde eu possa aplicar meus conhecimentos e contribuir com soluções eficientes e bem estruturadas.
+
 🧠 Em constante evolução para contribuir com **soluções inovadoras e eficientes**.
 
----
+##
 
 </div>
