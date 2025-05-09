@@ -1,36 +1,43 @@
-<img width="100%" src="https://camo.githubusercontent.com/22ef1b87b59d0105c7a89e0c316f75d796f8edb0df27d5476746c8375ac329e4/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343033396138266865696768743d3132302673656374696f6e3d686561646572" />
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4039a8&height=120&section=header"/>
 
+<div align="center">
+  
+## Antonio Davi Araújo dos Santos
+💻 Desenvolvedor Full Stack <br>
+🎓 Estudante de Engenharia de Computação na FURG<br>
+🚀 Aluno do programa ONE | Oracle Next Education + Alura<br>
 
-# 👋 Olá! Eu sou o Davi  
-### Desenvolvedor Full Stack apaixonado por tecnologia e inovação
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davisantoss/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davisant_os/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviir17@gmail.com)
-
----
-
-💬 Buscando desafios e oportunidades para crescer profissionalmente na área da programação.  
-🧠 Em constante evolução para contribuir com **soluções inovadoras e eficientes**.
-
----
-
-## 🚀 Tecnologias que utilizo
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
----
+<div align="center">
+  <a href="https://github.com/davisantoss">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davisantoss&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisantoss&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  </a>
+</div>
 
-### 📈 GitHub Stats (opcional)
+<!-- Distintivos de Linguagens e Habilidades -->
+<div align="center"><br>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
+  <img alt="React" src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">&nbsp;
+  <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">&nbsp;
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
+</div>
+<br>
 
-Você pode adicionar algo assim para mostrar suas estatísticas no GitHub:
+<!-- Contato e Redes -->
+<div align="center"> 
+  <a href="mailto:daviir17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/davisantoss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/davisant_os/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
 
-```markdown
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davisantoss&show_icons=true&theme=dracula)
+<!-- Animação de contribuição -->
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davisantoss
