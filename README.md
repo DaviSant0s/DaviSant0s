@@ -7,4 +7,14 @@
 💻 Desenvolvedor Full Stack <br>
 🎓 Graduando em Engenharia de Computação (Bacharelado)<br>
  Universidade Federal do Rio Grande<br>
+
+
+ 
+---
+
+💬 Buscando desafios e oportunidades para crescer profissionalmente na área da programação.  
+🧠 Em constante evolução para contribuir com **soluções inovadoras e eficientes**.
+
+---
+
 </div>
