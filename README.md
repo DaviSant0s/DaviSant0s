@@ -3,7 +3,7 @@
 
 <div align="center">
   
-## Antonio Davi Araújo dos Santos
+# Antonio Davi Araújo dos Santos
 💻 Desenvolvedor Full Stack <br>
 🎓 Graduando em Engenharia de Computação (Bacharelado)<br>
  Universidade Federal do Rio Grande<br>
