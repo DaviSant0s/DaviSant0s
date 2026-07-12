@@ -9,9 +9,6 @@
 Graduando em **Engenharia de Computação** na Universidade Federal do Rio Grande — **FURG**.
 
 Desenvolvo aplicações web completas, APIs REST e integrações entre frontend, backend e banco de dados. Atualmente, também estou me especializando no desenvolvimento de **agentes inteligentes, aplicações com RAG e soluções de IA com Python**.
-
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviir17@gmail.com)
-
 </div>
 
 ---
