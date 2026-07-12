@@ -10,7 +10,6 @@ Graduando em **Engenharia de Computação** na Universidade Federal do Rio Grand
 
 Desenvolvo aplicações web completas, APIs REST e integrações entre frontend, backend e banco de dados. Atualmente, também estou me especializando no desenvolvimento de **agentes inteligentes, aplicações com RAG e soluções de IA com Python**.
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-4039A8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-smoky-zeta-62.vercel.app/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviir17@gmail.com)
 
 </div>
@@ -94,7 +93,6 @@ Desenvolvo aplicações web completas, APIs REST e integrações entre frontend,
 ### Vamos construir algo interessante juntos 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaviSant0s-181717?style=for-the-badge&logo=github)](https://github.com/DaviSant0s)
-[![Portfólio](https://img.shields.io/badge/Conheça_meu_portfólio-4039A8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-smoky-zeta-62.vercel.app/)
 
 </div>
 
